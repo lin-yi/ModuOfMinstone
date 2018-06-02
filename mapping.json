@@ -1,0 +1,47 @@
+{
+    "部门简介": "about",
+    "2018年总体目标": "target",
+    "共享信息": "share",
+    "入职培训": {
+        "公共守则": {
+            "规章制度": "regulations",
+            "版本管理规范": "version-guide",
+            "GitLab入门": "gitlab",
+            "Markdown入门": "markdown",
+            "禅道入门": "zen-guide",
+            "Git入门": "git"
+        },
+        "Android入职培训": {
+            "代码规范": "android-code-guide",
+            "多现场开发": "android-multi-project",
+            "Android Gradle Plugin": "android-plugin"
+        },
+        "iOS入职培训": {
+            "代码规范": "ios-code-guide",
+            "多现场开发": "ios-multi-project",
+            "Cocoapods": "ios-cocoapods"
+        },
+        "后端入职培训": {
+            "代码规范": "backend-code-guide",
+            "接口规范": "api-guide",
+            "Gradle入门": "gradle",
+            "Gradle Plugin": "backend-gradle-plugin",
+            "Spring Boot 入门": "spring-boot-starter",
+            "开发约定": "backend-development-convention"
+        },
+        "前端入职培训": {
+            "代码规范": "frontend-code-guide",
+            "开发约定": "frontend-development-convention",
+            "Vue + Webpack前端项目开发指南": "vue-webpack-guide"
+        }
+    },
+    "工作流程指南": {
+        "部门组织架构": "department-structure",
+        "项目经理工作指导": "pm-workflow-guide",
+        "工作流程": "workflow-guide",
+        "发包流程": "release-guide"
+    },
+    "项目汇总": "projects",
+    "技能图谱": "growth-roadmap",
+    "部门培训": "training"
+}
